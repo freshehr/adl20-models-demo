@@ -1,0 +1,9 @@
+{
+  "templates" : [ {
+    "id" : "openEHR-EHR-COMPOSITION.medication_list.v1.0.0",
+    "rmType" : "COMPOSITION",
+    "name" : "Encounter",
+    "path" : "templates/openEHR-EHR-COMPOSITION.medication_list.v1.adlt",
+    "sha" : "e30f58170110ae883d290cf5776be2054affa20c"
+  } ]
+}
